@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/drawable/ic_back.xml" value="0.1" />
         <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/drawable/ic_tim_kiem.xml" value="0.1525" />
         <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_loai_sach.xml" value="0.25" />
-        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_lop.xml" value="0.25" />
-        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_lop.xml" value="0.22" />
+        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_may_tinh.xml" value="0.25" />
+        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_sach.xml" value="0.12334801762114538" />
         <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_tat_ca.xml" value="0.25" />
         <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_timkiem.xml" value="0.25" />
+        <entry key="..\:/Users/le482/AndroidStudioProjects/BookApp/app/src/main/res/layout/item_lop.xml" value="0.25" />
       </map>
     </option>
   </component>
