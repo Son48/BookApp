@@ -13,5 +13,6 @@ public class TimkiemActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding=ActivityTimkiemBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
     }
 }

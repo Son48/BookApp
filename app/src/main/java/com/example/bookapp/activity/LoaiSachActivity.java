@@ -13,5 +13,6 @@ public class LoaiSachActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding=ActivityLoaiSachBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
     }
 }

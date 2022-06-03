@@ -13,5 +13,6 @@ public class LopActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding=ActivityLopBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
     }
 }

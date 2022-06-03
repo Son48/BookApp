@@ -13,5 +13,6 @@ public class TatCaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding=ActivityTatCaBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
     }
 }

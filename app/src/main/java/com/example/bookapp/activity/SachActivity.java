@@ -14,5 +14,6 @@ public class SachActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding=ActivitySachBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
     }
 }
