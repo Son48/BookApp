@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BookApp">
         <activity
+            android:name=".activity.MayTinhActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.LoaiSachActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.TimkiemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.TatCaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.LopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SachActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -18,6 +36,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
